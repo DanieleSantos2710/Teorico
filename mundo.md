@@ -1,1 +1,0 @@
-explicações do basico do python
